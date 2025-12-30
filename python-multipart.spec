@@ -1,6 +1,6 @@
 Name:		python-multipart
 Version:	1.2.1
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/m/multipart/multipart-%{version}.tar.gz
 Summary:	Parser for multipart/form-data
 URL:		https://pypi.org/project/multipart/
